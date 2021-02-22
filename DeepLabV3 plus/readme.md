@@ -1,2 +1,2 @@
 Output from this model : 
-![](images/output.png)
+![](DeepLabV3 plus/images/output.PNG)
